@@ -3,6 +3,6 @@ function getRandomNumber(): number {
 }
 
 const randomNumber = getRandomNumber();
-console.log(`Random number: ${randomNumber}`);
+console.log(`Random number:: ${randomNumber}`);
 
 export default getRandomNumber;
